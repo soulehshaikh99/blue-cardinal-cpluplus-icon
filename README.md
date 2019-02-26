@@ -1,2 +1,2 @@
-# blue-cardinal-c--icon
+# blue-cardinal-cplusplus-icon
 Blue Cardinal Studios C++ Icon
